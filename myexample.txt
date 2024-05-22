@@ -1,0 +1,10 @@
+My first lin ewith vi
+
+
+entering into vi terminal
+
+H
+E
+L
+L
+O
